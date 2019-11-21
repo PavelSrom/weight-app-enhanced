@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://pavel:9806075939@weightappenhanced-kpwq6.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "pavelskiWeightApp"
-}
